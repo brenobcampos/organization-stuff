@@ -9,10 +9,11 @@
 |:white_check_mark:|Webcam Logitech|55.90€|[Amazon](https://www.amazon.es/gp/product/B006A2Q81M/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)|<img src="https://m.media-amazon.com/images/I/710RbxBntiL._AC_SX679_.jpg" width="256">|
 |:white_check_mark:|Webcam Cover|7.95€|[Amazon](https://www.amazon.es/gp/product/B086JM1HLS/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)|<img src="https://m.media-amazon.com/images/I/51AHlKhD7lL._AC_SX679_.jpg" width="256">|
 
-## Desk
+## Desk & Chair
 
 | Purchased | Name | Price | Link | Photo |
 |-----------|------|-------|------|-------|
+|:white_check_mark:|HP Omen Chair|349.99€|[Worten](https://www.worten.pt/produtos/cadeira-gaming-hp-omen-citadel-ate-136-kg-elevador-a-gas-classe-4-preto-e-vermelho-7039190)|<img src="https://www.worten.pt/i/977491069316dd1a77733416b9978f46cc7177cc.jpg" width="256">|
 |:white_check_mark:|Standing Desk Frame - SONGMICS|285.32€|[Amazon](https://www.amazon.es/gp/product/B082PWSYSQ/ref=ppx_yo_dt_b_asin_title_o03_s02?ie=UTF8&psc=1)|<img src="https://m.media-amazon.com/images/I/61sWWn9RsFL._AC_SX679_.jpg" width="256">|
 ||Desk Cover - Option 1 - VRENA Kitchen Stand 186x63.5cm (Solid)|105€|[Ikea](https://www.ikea.com/pt/pt/p/vrena-bancada-carvalho-chapa-00437167/)|<img src="https://www.ikea.com/pt/pt/images/products/vrena-bancada-carvalho-chapa__1012022_pe828714_s5.jpg" width="256">|
 ||Desk Cover - Option 2 - SALJAN Kitchen Stand 186x63.5 (Laminate)|45€|[Ikea](https://www.ikea.com/pt/pt/p/saeljan-bancada-efeito-carvalho-laminado-60439173/)|<img src="https://www.ikea.com/pt/pt/images/products/saeljan-bancada-efeito-carvalho-laminado__0808056_pe770665_s5.jpg" width="256">|
