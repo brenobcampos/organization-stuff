@@ -1,3 +1,14 @@
+## Tech Stuff
+
+| Purchased | Name | Price | Link | Photo |
+|-----------|------|-------|------|-------|
+|:white_check_mark:|Keychron Wireless Keyboard K8|94.16€|[Keychron](https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard?variant=32018252988505)|<img src="https://cdn.shopify.com/s/files/1/0059/0630/1017/products/Keychron-K8-tenkeyless-wireless-mechanical-keyboard-for-Mac-Windows-iOS-RGB-white-backlight-aluminum-frame-with-Hot-swappable-Gateron-switch-red_540x.jpg" width="256">|
+|Company|Logitech MX Master 3||[Logitech](https://www.logitech.com/en-roeu/products/mice/mx-master-3.910-005694.html#buy-mx-master-3)|<img src="https://resource.logitech.com/w_900,h_900,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3/gallery/mx-master-product-gallery-graphite-top.png" width="256">|
+|Company|Monitor Dell 34" Ultrawide - U3419W||[Dell](https://www.dell.com/pt/empresas/p/dell-u3419w-monitor/pd)|<img src="https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/peripherals/output_devices/dell/monitors/u_series/u3419w/global_spi/monitor-u3419w-campaign-hero-504x350-ng.png" width="256">|
+|:white_check_mark:|Monitor AOC 24" 1ms - G2460VQ6||[AOC](https://eu.aoc.com/en/gaming/products/monitors/g2460vq6)|<img src="https://www.worten.pt/i/45a86552763f32bfe2cd0cc11266b36e041afc9d.jpg" width="256">|
+|:white_check_mark:|Webcam Logitech|55.90€|[Amazon](https://www.amazon.es/gp/product/B006A2Q81M/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)|<img src="https://m.media-amazon.com/images/I/710RbxBntiL._AC_SX679_.jpg" width="256">|
+|:white_check_mark:|Webcam Cover|7.95€|[Amazon](https://www.amazon.es/gp/product/B086JM1HLS/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)|<img src="https://m.media-amazon.com/images/I/51AHlKhD7lL._AC_SX679_.jpg" width="256">|
+
 ## Desk
 
 | Purchased | Name | Price | Link | Photo |
@@ -22,6 +33,7 @@
 
 | Purchased | Name | Price | Link | Photo |
 |-----------|------|-------|------|-------|
+|:white_check_mark:|Mouse pad Skiller SGP1 XXL 90x40cm|14.90€|[PCDiga](https://www.pcdiga.com/tapete-sharkoon-skiller-sgp1-xxl-4044951019267)|<img src="https://static.pcdiga.com/media/catalog/product/cache/7800e686cb8ccc75494e29411e232323/p/r/product-p013920-35270_2.jpg" width="256">|
 |:white_check_mark:|Display Arm - Amazon Basics|170.21€|[Amazon](https://www.amazon.es/gp/product/B00MIBN71I/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1)|<img src="https://m.media-amazon.com/images/I/71-vVgPmt6L._AC_SX679_.jpg" width="256">|
 ||Drawer front - ENHET (to use as support for the display arm) 40x15cm|4€|[Ikea](https://www.ikea.com/pt/pt/p/enhet-frente-gaveta-efeito-carvalho-20457649/)|<img src="https://www.ikea.com/pt/pt/images/products/enhet-frente-gaveta-efeito-carvalho__0807159_pe770266_s5.jpg?f=xl" width="256">|
 |:white_check_mark:|Aluminium Plate (to use as support for the display arm) - BuyAluminium|20.32€|[Amazon](https://www.amazon.es/gp/product/B07GSH3HPW/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)|<img src="https://m.media-amazon.com/images/I/61-3J5OWEnL._SX522_.jpg" width="256">|
@@ -30,13 +42,6 @@
 ||Mug holder - LANESPELARE|10€|[Ikea](https://www.ikea.com/pt/pt/p/lanespelare-porta-caneca-preto-90507844/)|<img src="https://www.ikea.com/pt/pt/images/products/lanespelare-porta-caneca-preto__0997517_pe822697_s5.jpg" width="256">|
 ||Geometric panel for organization - UPPSPEL|37€|[Ikea](https://www.ikea.com/pt/pt/p/uppspel-combinacao-placar-geometrico-preto-s69440657/)|<img src="https://www.ikea.com/pt/pt/images/products/uppspel-combinacao-placar-geometrico-preto__0985178_pe816537_s5.jpg" width="256">|
 |:white_check_mark:|Cable management gutter - Value|30€|[Amazon](https://www.amazon.es/gp/product/B07T439QY5/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)|<img src="https://m.media-amazon.com/images/I/51mY+Urbi+L._AC_SX679_.jpg" width="256">|
-
-## Tech Stuff
-
-| Purchased | Name | Price | Link | Photo |
-|-----------|------|-------|------|-------|
-|:white_check_mark:|Webcam Logitech|55.90€|[Amazon](https://www.amazon.es/gp/product/B006A2Q81M/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)|<img src="https://m.media-amazon.com/images/I/710RbxBntiL._AC_SX679_.jpg" width="256">|
-|:white_check_mark:|Webcam Cover|7.95€|[Amazon](https://www.amazon.es/gp/product/B086JM1HLS/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)|<img src="https://m.media-amazon.com/images/I/51AHlKhD7lL._AC_SX679_.jpg" width="256">|
 
 ## Misc
 
