@@ -7,7 +7,6 @@
 |Company|Monitor Dell 34" Ultrawide - U3419W||[Dell](https://www.dell.com/pt/empresas/p/dell-u3419w-monitor/pd)|<img src="https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/peripherals/output_devices/dell/monitors/u_series/u3419w/global_spi/monitor-u3419w-campaign-hero-504x350-ng.png" width="256">|
 |:white_check_mark:|Monitor AOC 24" 1ms - G2460VQ6||[AOC](https://eu.aoc.com/en/gaming/products/monitors/g2460vq6)|<img src="https://www.worten.pt/i/45a86552763f32bfe2cd0cc11266b36e041afc9d.jpg" width="256">|
 |:white_check_mark:|Webcam Logitech|55.90€|[Amazon](https://www.amazon.es/gp/product/B006A2Q81M/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)|<img src="https://m.media-amazon.com/images/I/710RbxBntiL._AC_SX679_.jpg" width="256">|
-|:white_check_mark:|Webcam Cover|7.95€|[Amazon](https://www.amazon.es/gp/product/B086JM1HLS/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)|<img src="https://m.media-amazon.com/images/I/51AHlKhD7lL._AC_SX679_.jpg" width="256">|
 
 ## Desk & Chair
 
